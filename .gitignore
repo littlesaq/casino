@@ -1,0 +1,5 @@
+casino.db
+casino.db-*
+.venv/
+__pycache__/
+*.log
